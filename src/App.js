@@ -1,40 +1,31 @@
 import React, { useState } from 'react';
-import { HashRouter as Router } from 'react-router-dom'; // Keeping Router in case you use it later
 import AirPollution from './pages/AirPollution';
 import HeatWave from './pages/HeatWave';
 
 function App() {
-  const [activeTab, setActiveTab] = useState('air-pollution');
+  const [currentPage, setCurrentPage] = useState('pollution');
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Navigation Bar */}
-      <nav className="p-4 bg-white border-b flex gap-4">
+      {/* Simple Navigation Bar */}
+      <nav className="bg-white border-b p-4 flex gap-6 shadow-sm">
         <button 
-          onClick={() => setActiveTab('air-pollution')} 
-          style={{ 
-            fontWeight: activeTab === 'air-pollution' ? 'bold' : 'normal', 
-            cursor: 'pointer',
-            padding: '8px 16px' 
-          }}
+          onClick={() => setCurrentPage('pollution')}
+          className={`font-bold ${currentPage === 'pollution' ? 'text-blue-600' : 'text-gray-500'}`}
         >
           Air Pollution
         </button>
         <button 
-          onClick={() => setActiveTab('heat-wave')} 
-          style={{ 
-            fontWeight: activeTab === 'heat-wave' ? 'bold' : 'normal', 
-            cursor: 'pointer',
-            padding: '8px 16px' 
-          }}
+          onClick={() => setCurrentPage('heatwave')}
+          className={`font-bold ${currentPage === 'heatwave' ? 'text-orange-600' : 'text-gray-500'}`}
         >
-          Heat Wave
+          Heatwave
         </button>
       </nav>
 
       {/* Main Content Area */}
-      <main className="p-8">
-        {activeTab === 'air-pollution' ? <AirPollution /> : <HeatWave />}
+      <main className="max-w-5xl mx-auto p-8">
+        {currentPage === 'pollution' ? <AirPollution /> : <HeatWave />}
       </main>
     </div>
   );
