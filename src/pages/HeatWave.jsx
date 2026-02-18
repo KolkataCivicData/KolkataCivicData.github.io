@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import ParliamentDashboard from '../components/Dashboard/ParliamentDashboard';
 import { Sun } from 'lucide-react';
 // Direct import of data
 import parliamentData from '../data/heatwave/parliament.json'; 
@@ -16,8 +15,15 @@ const HeatWave = () => {
         </p>
       </div>
       
-      {/* Pass data as props to the dashboard component */}
-      <ParliamentDashboard data={parliamentData} />
+      {/* ParliamentDashboard is hidden for now because 
+          the component file is missing from /src/components 
+      */}
+      <div className="p-6 bg-blue-50 border border-blue-200 rounded-lg">
+        <p className="text-blue-800">
+          <strong>Status:</strong> Parliament data ({parliamentData.length} records) is successfully loaded. 
+          The interactive dashboard will appear once the component files are uploaded.
+        </p>
+      </div>
 
       <div className="flex flex-col items-center justify-center py-12 bg-white rounded-xl border border-gray-100 shadow-sm border-dashed">
         <Sun className="w-10 h-10 text-orange-200 mb-3" />
