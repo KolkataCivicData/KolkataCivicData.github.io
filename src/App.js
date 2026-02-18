@@ -8,16 +8,17 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      {/* Simple Navigation */}
       <nav className="p-4 bg-white border-b flex gap-4">
         <button 
           onClick={() => setActiveTab('air-pollution')} 
-          style={{ fontWeight: activeTab === 'air-pollution' ? 'bold' : 'normal' }}
+          style={{ fontWeight: activeTab === 'air-pollution' ? 'bold' : 'normal', cursor: 'pointer' }}
         >
           Air Pollution
         </button>
         <button 
           onClick={() => setActiveTab('heat-wave')} 
-          style={{ fontWeight: activeTab === 'heat-wave' ? 'bold' : 'normal' }}
+          style={{ fontWeight: activeTab === 'heat-wave' ? 'bold' : 'normal', cursor: 'pointer' }}
         >
           Heat Wave
         </button>
