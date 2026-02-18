@@ -1,94 +1,14 @@
 [
-
-{
-    id: "645",
-    member: "Ms. S Jothimani",
-    ministry: "EARTH SCIENCES",
-    type: "UNSTARRED",
-    date: "03-Dec-2025",
-    subject: "Heatwaves and floods in cities",
-    question: "Whether it is true that the ICMR-Global South research has projected urban heatwaves and erratic rainfall events to double in cities like Chennai by 2030 and if so, the immediate steps taken/being taken by the Government to mitigate these risks; the number of extreme weather events including heatwaves, flash floods and cloudbursts recorded across the Country during the first half of 2025 in comparison with earlier years; the status of the Government's efforts to implement 'Bharat Forecast System' and urban flood forecasting tools such as C-FLOWS particularly for coastal metros like Chennai; and whether enhanced early warning systems and city level decision support platforms are being scaled up in collaboration with IMD and State Governments to improve disaster preparedness?",
-    answer: "The Government is aware of the earlier reports suggesting that cities like Chennai will face significant rise in heatwave days and extreme rainfall events by 2030. The India Meteorological Department (IMD) continuously monitors extreme weather events. Details on the number of extreme events in 2025 are being compiled. Regarding C-FLOWS, it is an integrated GIS-based decision support system for urban flood management, currently operational for Chennai. The 'Bharat Forecast System' is part of ongoing upgrades to enhance high-resolution modeling capabilities. IMD collaborates with state governments to scale up early warning systems and decision support platforms to improve disaster preparedness.",
-    pdf: "AU645_uyLEo9.pdf"
-  },
   {
-    id: "461",
-    member: "Shri Y S Avinash Reddy",
-    ministry: "EARTH SCIENCES",
-    type: "UNSTARRED",
-    date: "03-Dec-2025",
-    subject: "Mapping of Heatwaves",
-    question: "Whether the Government is planning to invest in latest advancements in geospatial technology and field-based assessments to provide effective mapping of heatwaves, such as granular scale heat vulnerability and hotspot mapping and if so, the details thereof; whether the Government is also planning to mandate establishment of locally-defined temperature thresholds in all heat action plans taking into account the local risk multipliers while declaring a heatwave to provide a more region-specific approach; and whether the Government is also contemplating to reform forecast models to region-specific thresholds for energy and water demand, crop and health impacts to enable impact-based heat forecast alerts?",
-    answer: "Yes. The India Meteorological Department (IMD) provides heatwave forecasts and warnings at multiple spatial and temporal scales. A web-based GIS system for heatwave information is available. IMD has prepared a Climate Hazards and Vulnerability Atlas of India, identifying hotspots. IMD defines heatwave conditions based on temperature thresholds and considers station-wise percentile-based analysis of temperature, humidity, and wind. Heat wave alerts are tailored to geographic characteristics (plain, hilly, coastal). Impact-based forecasts are issued in colour-coded formats.",
-    pdf: "AU461_Bbj84B.pdf"
-  },
-  
-  {
-  id: "4494",
-    member: "Shri Asaduddin Owaisi",
-    ministry: "EARTH SCIENCES",
-    type: "UNSTARRED",
-    date: "20-Aug-2025",
-    subject: "Cities Facing Double Heatwave and Extreme Rainfall",
-    question: "Whether the Government is aware of the recent report titled 'Weathering the Storm: Managing Monsoons in a Warming Climate', which projects that cities in India will face a two-fold rise in heatwave days and increase in extreme rainfall events by the year 2030 and if so, the details thereof; whether the Government maintains granular city-level and district-level data on the incidence of extreme heat and extreme rainfall during the last two decades; whether any measures have been taken to establish Climate Risk Observatory (CRO) or similar body; and the steps taken/being taken to provide financial assistance to urban local bodies in climate-vulnerable regions?",
-    answer: "Yes. The Government is aware of the recent reports. IMD maintains granular data on extreme weather events. While there is no specific 'Climate Risk Observatory' by that name, the existing network of observatories and the Climate Hazards and Vulnerability Atlas serve similar purposes of risk assessment. Financial assistance for disaster mitigation is provided through State Disaster Response Funds (SDRF) and National Disaster Response Funds (NDRF) as per established guidelines.",
-    pdf: "AU4494_wZjXVU.pdf"
-  },
-  {
-    id: "2071",
-    member: "Shri Sudama Prasad & Shri Raja Ram Singh",
-    ministry: "EARTH SCIENCES",
-    type: "UNSTARRED",
-    date: "12-Mar-2025",
-    subject: "Death Caused by Heatwave",
-    question: "Whether the Government has any plans to declare heatwave as a natural disaster; if so, the details thereof; whether the Government has any data about the number of people who died in the recent heatwave especially informal and gig workers; if so, the details thereof; and whether the Government has any plans to provide compensation to people who died during the heatwave and if so, the details thereof and if not, the reasons therefor?",
-    answer: "Currently, the notified list of disasters eligible for NDRF/SDRF assistance includes 12 disasters (cyclones, droughts, earthquakes, etc.). Heatwave is not on the national notified list, but the 15th Finance Commission noted that states can use up to 10% of their SDRF for local disasters, and several states have notified heatwaves as local disasters. Data on deaths is maintained by the NCRB/MHA. Compensation policies vary by state based on their local disaster notifications.",
-    pdf: "AU2071_kJE2AA.pdf"
-  },
-  {
-    id: "1285",
-    member: "Shri Putta Mahesh Kumar",
-    ministry: "FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
-    type: "UNSTARRED",
-    date: "11-Feb-2025",
-    subject: "Impact of Heatwaves",
-    question: "Whether the Government has conducted any study/survey into the impact of heatwaves on the fisheries-based business in the country during the last five years; if so, the details regarding losses suffered; details regarding the total number of fisheries that had to shut down; steps taken by the Government to reduce losses; and whether any campaign/initiative to raise awareness regarding the impact of heatwaves on fisheries has been undertaken?",
-    answer: "The fisheries research institutes under ICAR have been studying climate impacts. Advisories are issued through village-level fisheries assistants. Under Pradhan Mantri Matsya Sampada Yojana (PMMSY), 100 coastal fishermen villages have been identified as Climate Resilient Coastal Fishermen Villages (CRCFV) for focused investment. Initiatives include seaweed cultivation, artificial reefs, and green fuel use to enhance resilience. Training and awareness programs are also supported.",
-    pdf: "AU1285_E4oTeT.pdf"
-  },
-
- {
-    id: "2661",
-    member: "Shri Charanjit Singh Channi",
-    ministry: "EARTH SCIENCES",
-    type: "UNSTARRED",
-    date: "07-Aug-2024",
-    subject: "Deaths in Punjab due to Heatwaves",
-    question: "Whether the Government has any data regarding the deaths in Punjab, due to heatwave in last two years and if so, the details thereof; whether the Government has any specific data and details of the reasons causing extreme heatwave in Jalandhar; and whether the Government has provided any compensation to the families of those deceased persons who died because of the heatwave?",
-    answer: "Yes. The latest details are given as per the National Crime Record Bureau (NCRB). Due to climate change, annual temperature is increasing globally, reflected in rising frequency of heatwaves in northern plains including Punjab. Specific micro-level reasons for Jalandhar are part of broader regional trends. Compensation is a state subject; some states provide relief from SDRF if notified as a local disaster.",
-    pdf: "AU2661_3Ss0SS.pdf"
-  },
-  
-    {
-    id: "418",
-    member: "Shri Sukhdeo Bhagat",
-    ministry: "EARTH SCIENCES",
-    type: "UNSTARRED",
-    date: "24-Jul-2024",
-    subject: "Deaths caused due to Heatwave",
-    question: "The details of the deaths caused due to heatwaves from 2013 till date, State-wise; the details of the steps being taken/proposed to be taken by the Government in lieu of the report concerning increase in severe heatwaves across the country in the coming years; and whether the Government proposes to declare heatwaves as a national calamity?",
-    answer: "Details of deaths are provided based on NCRB data. IMD has taken various steps to improve monitoring and early warning systems, including seasonal outlooks and extended range forecasts. A District-wise heatwave vulnerability Atlas has been prepared. Heat Action Plans (HAPs) are being implemented in 23 states. Regarding declaring it a national calamity, existing guidelines for NDRF/SDRF cover 12 specific disasters, but states have flexibility to declare local disasters.",
-    pdf: "AU418_SS70jx.pdf"
-  },
-  {
-    id: "355",
-    member: "Shri P V Midhun Reddy",
-    ministry: "EARTH SCIENCES",
-    type: "UNSTARRED",
-    date: "24-Jul-2024",
-    subject: "Mapping Heatwaves",
-    question: "Whether the Government is looking into investing in latest advanced geospatial technology and field-based assessments to provide effective mapping of heatwaves, such as granular scale heat vulnerability and hotspot mapping; whether the Government is planning to mandate establishment of locally-defined temperature thresholds in all Heat Action Plans; and whether the Government has any plans to reform forecast models to region-specific thresholds for energy and water demand?",
-    answer: "Yes. IMD issues forecasts and warnings related to heatwaves in different spatial and temporal scales. A web-based GIS system is available for heatwave information. IMD has prepared a Climate Hazards and Vulnerability Atlas of India. Heatwave conditions are defined based on temperature criteria and percentile-based analysis of local meteorological parameters. Forecast model products are used to issue early warning alerts to help policy makers plan in advance.",
-    pdf: "AU355_l719hl.pdf"
+    "id": "645",
+    "member": "Ms. S Jothimani",
+    "ministry": "EARTH SCIENCES",
+    "type": "UNSTARRED",
+    "date": "03-Dec-2025",
+    "subject": "Heatwaves and floods in cities",
+    "question": "...",
+    "answer": "...",
+    "pdf": "AU645_uyLEo9.pdf"
   }
-];
+]
+
