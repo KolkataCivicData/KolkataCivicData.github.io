@@ -1,5 +1,5 @@
 // --- DATA SOURCE: PARLIAMENT QUESTIONS (HEAT WAVE) ---
-
+[
   {
     id: "645",
     member: "Ms. S Jothimani",
@@ -87,5 +87,5 @@
     question: "Whether the Government is looking into investing in latest advanced geospatial technology and field-based assessments to provide effective mapping of heatwaves, such as granular scale heat vulnerability and hotspot mapping; whether the Government is planning to mandate establishment of locally-defined temperature thresholds in all Heat Action Plans; and whether the Government has any plans to reform forecast models to region-specific thresholds for energy and water demand?",
     answer: "Yes. IMD issues forecasts and warnings related to heatwaves in different spatial and temporal scales. A web-based GIS system is available for heatwave information. IMD has prepared a Climate Hazards and Vulnerability Atlas of India. Heatwave conditions are defined based on temperature criteria and percentile-based analysis of local meteorological parameters. Forecast model products are used to issue early warning alerts to help policy makers plan in advance.",
     pdf: "AU355_l719hl.pdf"
-  }
-];
+  },
+]
